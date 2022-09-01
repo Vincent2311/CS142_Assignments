@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "406cfe20d3311458",
+    "type": "split",
+    "children": [
+      {
+        "id": "285057abad0ae8ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 Cascading Style Sheets (CSS).md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0d60e70249c98ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbf89dad87d4f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50e434ae80a4bd93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8822108be08c1b56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34117b3241ce7901",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10ffa0c1242645eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e7bb204ab369b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d8dabdc38a3925",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Cascading Style Sheets (CSS).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7119c8fbdaf75f87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Cascading Style Sheets (CSS).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dd07d7e361bcde5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "697616ec39267a37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Cascading Style Sheets (CSS).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "285057abad0ae8ae",
+  "lastOpenFiles": [
+    "01 HyperText Markup Language (HTML).md",
+    "02 Cascading Style Sheets (CSS).md",
+    "2022-08-31.md"
+  ]
+}

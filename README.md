@@ -1,2 +1,3 @@
 # CS142_Assignments
-I'll upload them once I finished all the assignments Still working
+I'll upload them in sequence once I finished the assignments. Still working.
+Some messy notes will be uploaded alongside.
