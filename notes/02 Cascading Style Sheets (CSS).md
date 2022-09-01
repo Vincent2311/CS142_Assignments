@@ -31,4 +31,4 @@ root element : typically`<html>`
 
 [About position property](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
-[cursor - Set the cursor when over element (e.g. help)](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+[cursor - Set the cursor when over element (e.g. help)](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
